@@ -1,0 +1,14 @@
+{
+	"extLocale": {
+		"message": "ja"
+	},
+	"extName": {
+		"message": "XOCollage"
+	},
+	"extDescription": {
+		"message": "クソコラを作ろう!"
+	},
+	"flipHorizontally": {
+		"message": "左右反転"
+	}
+}
